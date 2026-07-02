@@ -6,9 +6,6 @@ family moved to a farm in North Carolina, and after a quiet stretch I started
 building again: PersekOS, AI tools, and now the beginning of my open-source
 work.
 
-I am early in my open source journey, so this list is currently small: projects
-where a contribution actually merged upstream. It should grow quickly.
-
 - Site: [dustinpersek.com](https://dustinpersek.com)
 - X: [@dpersek](https://x.com/dpersek)
 - LinkedIn: [dustinpersek](https://linkedin.com/in/dustinpersek)
@@ -21,7 +18,8 @@ where a contribution actually merged upstream. It should grow quickly.
 
 ## Open source
 
-Merged upstream contributions:
+I am early in my open source journey, so this list is currently small: projects
+where a contribution actually merged upstream. It should grow quickly.
 
 <!-- profile-contributions:start -->
 | Project | Contribution | PR |
