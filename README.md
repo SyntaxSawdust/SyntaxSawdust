@@ -1,7 +1,7 @@
 # Dustin Persek
 
 I retired from corporate America after twenty years in payments and enterprise
-systems, most of it at Visa, ending as COO/CPO of Fraedom in Auckland, New Zealand. 
+systems, most of it at Visa, ending as Chief Operating Officer and Chief Product Officer at Fraedom in Auckland, New Zealand.
 Then my family moved to a farm in North Carolina, and after a quiet stretch I started
 building again: PersekOS, AI tools, and now the beginning of my open-source work.
 
