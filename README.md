@@ -23,7 +23,7 @@ where a contribution actually merged upstream. It should grow quickly.
 <!-- profile-contributions:start -->
 | Project | Contribution |
 | --- | --- |
-| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | codebase-memory-mcp #720 Python LSP eval-depth guard; codebase-memory-mcp #731 Visual Studio strict tool schema |
+| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | codebase-memory-mcp #720 Python LSP eval-depth guard; codebase-memory-mcp #801 libgit2 allocator version floor; codebase-memory-mcp #803 UI delete unwatch cleanup; codebase-memory-mcp #731 Visual Studio strict tool schema |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | OpenWhispr #1023 clipboard restore delay regression; Preserved rich clipboard formats during restore. |
 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days skillignore regression coverage follow-up |
 | [browser](https://github.com/lightpanda-io/browser) | lightpanda browser #2856 charset unicode mojibake |
