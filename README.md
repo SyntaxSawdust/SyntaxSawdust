@@ -26,6 +26,7 @@ where a contribution actually merged upstream. It should grow quickly.
 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | codebase-memory-mcp #720 Python LSP eval-depth guard; codebase-memory-mcp #801 libgit2 allocator version floor; codebase-memory-mcp #803 UI delete unwatch cleanup; codebase-memory-mcp #731 Visual Studio strict tool schema |
 | [remotion](https://github.com/remotion-dev/remotion) | Remotion #8732 WebM tail frame extraction; Remotion #8677 InputDragger keyboard focus |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | OpenWhispr #1023 clipboard restore delay regression; Preserved rich clipboard formats during restore. |
+| [nono](https://github.com/nolabs-ai/nono) | intercept argv matcher hardening |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #402 preflight redirect, PR #404 |
 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days skillignore regression coverage follow-up |
 | [browser](https://github.com/lightpanda-io/browser) | lightpanda browser #2856 charset unicode mojibake |
