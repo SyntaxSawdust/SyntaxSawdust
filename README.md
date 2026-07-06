@@ -29,6 +29,7 @@ where a contribution actually merged upstream. It should grow quickly.
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | clipboard restore delay regression; Preserved rich clipboard formats during restore. |
 | [nono](https://github.com/nolabs-ai/nono) | intercept argv matcher hardening |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | preflight redirect |
+| [cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | remove vendor-specific profile wording |
 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days skillignore regression coverage follow-up |
 | [browser](https://github.com/lightpanda-io/browser) | charset unicode mojibake |
 | [SnapOtter](https://github.com/snapotter-hq/SnapOtter) | Repaired copied AI virtualenv paths during Docker bootstrap and added regression coverage. |
