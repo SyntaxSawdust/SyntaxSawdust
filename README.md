@@ -25,10 +25,10 @@ where a contribution actually merged upstream. It should grow quickly.
 | --- | --- |
 | [open-wispr](https://github.com/human37/open-wispr) | sleep/wake recording recovery; clipboard insertion fix; configurable Whisper prompt; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | Python LSP eval-depth guard; libgit2 allocator version floor; UI delete unwatch cleanup; Visual Studio strict tool schema |
+| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #403 IM reply timeout config, PR #413; preflight redirect |
 | [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | clipboard restore delay regression; Preserved rich clipboard formats during restore. |
 | [nono](https://github.com/nolabs-ai/nono) | intercept argv matcher hardening |
-| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | preflight redirect |
 | [cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | remove vendor-specific profile wording |
 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days skillignore regression coverage follow-up |
 | [browser](https://github.com/lightpanda-io/browser) | charset unicode mojibake |
