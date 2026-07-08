@@ -17,7 +17,7 @@ building again: PersekOS, AI tools, and now the beginning of my OSS work.
 
 ## Open source
 
-I am early in my open source journey, so this list is currently small: projects
+I am early in my open source journey, so this list is currently small. These are projects
 where a contribution actually merged upstream. It should grow quickly.
 
 <!-- profile-contributions:start -->
