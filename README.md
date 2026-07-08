@@ -25,13 +25,13 @@ where a contribution actually merged upstream. It should grow quickly.
 | --- | --- |
 | [open-wispr](https://github.com/human37/open-wispr) | sleep/wake recording recovery; clipboard insertion fix; configurable Whisper prompt; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | Python LSP eval-depth guard; libgit2 allocator version floor; UI delete unwatch cleanup; Visual Studio strict tool schema |
+| [cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | cli-printing-press #3477 array request body stdin; remove vendor-specific profile wording |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #403 IM reply timeout config, PR #413; preflight redirect |
 | [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | clipboard restore delay regression; Preserved rich clipboard formats during restore. |
 | [impeccable](https://github.com/pbakaus/impeccable) | impeccable #334 Google Fonts css2 family parsing |
 | [server](https://github.com/music-assistant/server) | preserve Universal Player startup restore settings |
 | [nono](https://github.com/nolabs-ai/nono) | intercept argv matcher hardening |
-| [cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | remove vendor-specific profile wording |
 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days skillignore regression coverage follow-up |
 | [browser](https://github.com/lightpanda-io/browser) | charset unicode mojibake |
 | [SnapOtter](https://github.com/snapotter-hq/SnapOtter) | Repaired copied AI virtualenv paths during Docker bootstrap and added regression coverage. |
