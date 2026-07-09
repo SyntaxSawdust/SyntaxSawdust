@@ -6,8 +6,7 @@
 
 After twenty years in payments and enterprise software—mostly at Visa, ending
 as COO and CPO at Fraedom—I traded corporate life for a farm. Now I am building
-PersekOS and contributing precise, practical fixes to the AI and developer
-tools I use.
+PersekOS and contributing precise, practical fixes to OSS. 
 
 > 🌱 Currently tending PersekOS, upstream bugs, and an actual farm.
 
