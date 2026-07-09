@@ -1,4 +1,4 @@
-![Corporate systems, a North Carolina farm, and an open-source software graph flowing into one another](assets/profile-journey.webp)
+![Corporate systems, a North Carolina farm, and an open-source software graph flowing into one another](assets/profile-journey.webp?v=ea52bf9)
 
 # Dustin Persek
 
