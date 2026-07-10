@@ -35,6 +35,7 @@ merged.
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [configurable IM reply timeout](https://github.com/HKUDS/Vibe-Trading/pull/413); [preflight redirect handling](https://github.com/HKUDS/Vibe-Trading/pull/404) |
 | [remotion](https://github.com/remotion-dev/remotion) | [WebM tail-frame extraction](https://github.com/remotion-dev/remotion/pull/8757); [keyboard-visible InputDragger focus](https://github.com/remotion-dev/remotion/pull/8749) |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | [macOS clipboard restore timing](https://github.com/OpenWhispr/openwhispr/pull/1038); [rich clipboard-format preservation](https://github.com/OpenWhispr/openwhispr/pull/1020) |
+| [strix](https://github.com/usestrix/strix) | [Linux release binary GLIBC baseline](https://github.com/usestrix/strix/pull/707) |
 | [SurfSense](https://github.com/MODSetter/SurfSense) | [separate embedding base URL configuration](https://github.com/MODSetter/SurfSense/pull/1575) |
 | [impeccable](https://github.com/pbakaus/impeccable) | [Google Fonts CSS2 family parsing](https://github.com/pbakaus/impeccable/pull/349) |
 | [openmed](https://github.com/maziyarpanahi/openmed) | [biomedical NER entity-type metadata](https://github.com/maziyarpanahi/openmed/pull/1408) |
