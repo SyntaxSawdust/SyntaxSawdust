@@ -23,27 +23,27 @@ PersekOS and contributing precise, practical fixes to OSS.
 
 ## Open source
 
-A growing record of fixes I have helped ship upstream—reviewed, accepted, and
-merged.
+I am early in my open source journey, so this list is currently small. These are projects
+where a contribution actually merged upstream. It should grow quickly.
 
 <!-- profile-contributions:start -->
 | Project | Contribution |
 | --- | --- |
-| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | [real ThreadSanitizer test target](https://github.com/DeusData/codebase-memory-mcp/pull/890); [tools/list pagination compatibility](https://github.com/DeusData/codebase-memory-mcp/pull/980); [Python LSP evaluation guards](https://github.com/DeusData/codebase-memory-mcp/pull/809); [libgit2 allocator version floor](https://github.com/DeusData/codebase-memory-mcp/pull/829); [UI delete/unwatch cleanup](https://github.com/DeusData/codebase-memory-mcp/pull/843); [strict-client tool schema](https://github.com/DeusData/codebase-memory-mcp/pull/757) |
-| [open-wispr](https://github.com/human37/open-wispr) | [configurable Whisper prompts](https://github.com/human37/open-wispr/pull/80); [sleep/wake recording recovery](https://github.com/human37/open-wispr/pull/83); [clipboard insertion timing](https://github.com/human37/open-wispr/pull/81); [Homebrew trust-install recovery](https://github.com/human37/open-wispr/pull/74) |
-| [cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | [OAuth token persistence](https://github.com/mvanhorn/cli-printing-press/pull/3533); [bare `--all` offset pagination](https://github.com/mvanhorn/cli-printing-press/pull/3519); [array request bodies from stdin](https://github.com/mvanhorn/cli-printing-press/pull/3484); [vendor-neutral profile wording](https://github.com/mvanhorn/cli-printing-press/pull/3430) |
-| [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | [`isDeckComplete` predicate](https://github.com/THU-MAIC/OpenMAIC/pull/883); [math rendering in quiz text](https://github.com/THU-MAIC/OpenMAIC/pull/833) |
-| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | [configurable IM reply timeout](https://github.com/HKUDS/Vibe-Trading/pull/413); [preflight redirect handling](https://github.com/HKUDS/Vibe-Trading/pull/404) |
-| [remotion](https://github.com/remotion-dev/remotion) | [WebM tail-frame extraction](https://github.com/remotion-dev/remotion/pull/8757); [keyboard-visible InputDragger focus](https://github.com/remotion-dev/remotion/pull/8749) |
-| [openwhispr](https://github.com/OpenWhispr/openwhispr) | [macOS clipboard restore timing](https://github.com/OpenWhispr/openwhispr/pull/1038); [rich clipboard-format preservation](https://github.com/OpenWhispr/openwhispr/pull/1020) |
-| [strix](https://github.com/usestrix/strix) | [Linux release binary GLIBC baseline](https://github.com/usestrix/strix/pull/707) |
-| [SurfSense](https://github.com/MODSetter/SurfSense) | [separate embedding base URL configuration](https://github.com/MODSetter/SurfSense/pull/1575) |
-| [impeccable](https://github.com/pbakaus/impeccable) | [Google Fonts CSS2 family parsing](https://github.com/pbakaus/impeccable/pull/349) |
-| [openmed](https://github.com/maziyarpanahi/openmed) | [biomedical NER entity-type metadata](https://github.com/maziyarpanahi/openmed/pull/1408) |
-| [server](https://github.com/music-assistant/server) | [universal-player startup restore settings](https://github.com/music-assistant/server/pull/4634) |
-| [nono](https://github.com/nolabs-ai/nono) | [intercept argument matching after global options](https://github.com/nolabs-ai/nono/pull/1344) |
-| [last30days-skill](https://github.com/mvanhorn/last30days-skill) | [Hermes `.skillignore` regression coverage](https://github.com/mvanhorn/last30days-skill/pull/739) |
-| [browser](https://github.com/lightpanda-io/browser) | [`charset=unicode` HTML prescan fallback](https://github.com/lightpanda-io/browser/pull/2868) |
-| [SnapOtter](https://github.com/snapotter-hq/SnapOtter) | [copied AI virtualenv path repair during Docker bootstrap](https://github.com/snapotter-hq/SnapOtter/pull/390) |
-| [astryx](https://github.com/facebook/astryx) | [ChatComposerInput child submit flow](https://github.com/facebook/astryx/pull/3640) |
+| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | real ThreadSanitizer test target; tools/list pagination compatibility; Python LSP eval-depth guard; libgit2 allocator version floor; UI delete unwatch cleanup; Visual Studio strict tool schema |
+| [cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | cli-printing-press #3504 OAuth token persistence; cli-printing-press #3497 offset/page bare --all pagination; cli-printing-press #3477 array request body stdin; remove vendor-specific profile wording |
+| [open-wispr](https://github.com/human37/open-wispr) | configurable Whisper prompt; sleep/wake recording recovery; clipboard insertion fix; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
+| [nono](https://github.com/nolabs-ai/nono) | network block upstream proxy conflict; intercept argv matcher hardening |
+| [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | OpenMAIC #876 isDeckComplete predicate, PR #883; Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
+| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #403 IM reply timeout config, PR #413; preflight redirect |
+| [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
+| [openwhispr](https://github.com/OpenWhispr/openwhispr) | clipboard restore delay regression; Preserved rich clipboard formats during restore. |
+| [astryx](https://github.com/facebook/astryx) | ChatComposerInput child onChange submit flow |
+| [strix](https://github.com/usestrix/strix) | Linux release binary GLIBC baseline |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | SurfSense #1354 separate embedding base URL |
+| [impeccable](https://github.com/pbakaus/impeccable) | impeccable #334 Google Fonts css2 family parsing |
+| [openmed](https://github.com/maziyarpanahi/openmed) | OpenMed #288 biomedical NER entity type categories, PR #1408 |
+| [server](https://github.com/music-assistant/server) | preserve Universal Player startup restore settings |
+| [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days skillignore regression coverage follow-up |
+| [browser](https://github.com/lightpanda-io/browser) | charset unicode mojibake |
+| [SnapOtter](https://github.com/snapotter-hq/SnapOtter) | Repaired copied AI virtualenv paths during Docker bootstrap and added regression coverage. |
 <!-- profile-contributions:end -->
